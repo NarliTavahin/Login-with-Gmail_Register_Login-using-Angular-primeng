@@ -1,54 +1,27 @@
+# RegisterLogin
 
-# Login-with-Gmail_Register_Login-using-Angular-primeng
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.5.
 
-<br/>
-<p align="center">
- 
+## Development server
 
-  <h3 align="center">Login-with-Gmail_Register_Login-using-Angular-primeng</h3>
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-  <p align="center">
-    
-    <br/>
-    <a href="https://github.com/NarliTavahin/Login-with-Gmail_Register_Login-using-Angular-primeng/blob/main/photo-videos/Register-Login-with-Gmail.mp4">View Demo</a>
-    .
-    <a href="https://github.com/NarliTavahin/Login-with-Gmail_Register_Login-using-Angular-primeng/issues">Report Bug</a>
-    .
-    <a href="https://github.com/NarliTavahin/Login-with-Gmail_Register_Login-using-Angular-primeng/issues">Request Feature</a>
-  </p>
-</p>
+## Code scaffolding
 
-![Downloads](https://img.shields.io/github/downloads/NarliTavahin/Login-with-Gmail_Register_Login-using-Angular-primeng/total) ![Contributors]
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
+## Build
 
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## About The Project
+## Running unit tests
 
-![Screen Shot](https://github.com/NarliTavahin/Login-with-Gmail_Register_Login-using-Angular-primeng/blob/main/photo-videos/Register-Login-with-Gmail.png)
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-There is a program with angular codes for Login-with-Gmail_Register_Login-using-Angular-primeng with Google API.
+## Running end-to-end tests
 
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
+## Further help
 
-
-## Roadmap
-
-See the [open issues](https://github.com/NarliTavahin/Login-with-Gmail_Register_Login-using-Angular-primeng/issues) for a list of proposed features (and known issues).
-
-
-### Creating A Pull Request
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
-## Authors
-
-* **Narli Tavahin** - *Front-end web development* - [Narli Tavahin](https://github.com/NarliTavahin/) - *Built ReadME Template*
-
-## Acknowledgements
-
-* [Narli Tavahin](https://github.com/NarliTavahin/) 
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
